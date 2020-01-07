@@ -68,4 +68,4 @@ async def on_reaction_add(reaction, user):
 
 
 
-client.run("NjYwMjYyNTkxMjQ2ODkzMDU3.Xge6cQ.LUCC1ZSa1tZ6tkKFTsTruHcfGKQ")
+client.run(token)
